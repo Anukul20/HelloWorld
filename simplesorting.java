@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-class BubbleSort {
+class simplesorting{
   public static void main(String []args) {
     int n, c, d, swap;
     Scanner in = new Scanner(System.in);
